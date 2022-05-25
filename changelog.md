@@ -1,8 +1,18 @@
-# Changelog
+# Changelog  
+  
+| modName    | Behemoth Aerospace Engineering (BAE)                                      |
+| ---------- | ------------------------------------------------------------------------- |
+| license    | CC-BY-NC-SA-4.0                                                           |
+| author     | greystork, Comwarrior and zer0Kerbal                                      |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208327-*/)         |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/BehemothAerospaceEngineering)   |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineering) |
+| spacedock  | (https://spacedock.info/mod/225)                                          |
+| ckan       | BehemothAerospaceEngineering                                              |
 
 ---
 
-## Version 1.3.5.0.0
+## Version 1.3.5.0-release
 
 * Fixed engine heat animations
 * Updated test subjects to new format.
@@ -11,31 +21,31 @@
 
 ---
 
-## Version 1.3.4.0
+## Version 1.3.4.0-release
 
 * KSP 1.0.5 compatibility upgrade
 
 ---
 
-## Version 1.3.3.0
+## Version 1.3.3.0-release
 
 * Added scaled flag in /Agencies to fix problems with Texture Replacer mod.
 
 ---
 
-## Version 1.3.2.0
+## Version 1.3.2.0-release
 
 * Converted flag decal to PNG to fix problems with Texture Replacer mod.
 
 ---
 
-## Version 1.3.1.0
+## Version 1.3.1.0-release
 
 * Fixed visual bug with solar panel arrays.
 
 ---
 
-## Version 1.3.0.0
+## Version 1.3.0.0-release
 
 * Replaced Firespitter plugin with newer version.
 * Added parachutes.
@@ -46,7 +56,7 @@
 
 ---
 
-## Version 1.2.3.0
+## Version 1.2.3.0-release
 
 * Removed heat shield fairing transparency.
 * Adjusted procedural fairing parameters to better reflect KSP 1.0.4 fairing values.
@@ -55,13 +65,13 @@
 
 ---
 
-## Version 1.2.2.0
+## Version 1.2.2.0-release
 
 C Fixed KSP version number in version file.
 
 ---
 
-## Version 1.2.1.0
+## Version 1.2.1.0-release
 
 * Deleted Firespitter version file.
 * Adjusted engine heatProduction to better reflect KSP 1.0.3 engine values.
@@ -71,7 +81,7 @@ C Fixed KSP version number in version file.
 
 ---
 
-## Version 1.2.0.0
+## Version 1.2.0.0-release
 
 * Added 8m landing legs.
 * Added modular solid rocket boosters.
@@ -85,7 +95,7 @@ C Fixed KSP version number in version file.
 
 ---
 
-## Version 1.1.0.0
+## Version 1.1.0.0-release
 
 * Added procedural fairings.
 * Added nose cone tanks.
@@ -93,26 +103,26 @@ C Fixed KSP version number in version file.
 
 ---
 
-## Version 1.0.3.0
+## Version 1.0.3.0-release
 
 * Fixed engine overheat problem.
 
 ---
 
-## Version 1.0.2.0
+## Version 1.0.2.0-release
 
 * Tweaked engine ISP curves to reflect more realistic payload capabilities.
 
 ---
 
-## Version 1.0.1.0
+## Version 1.0.1.0-release
 
 * Converted all textures to DDE, so they will load faster.
 * Corrected location of version file, so it will actually work.
 
 ---
 
-## Version 1.0.0.0
+## Version 1.0.0.0-release
 
 * Release!
 
