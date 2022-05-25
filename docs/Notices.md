@@ -2,7 +2,6 @@
 permalink: /Notices.html
 title: Legal Notices
 description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
-# layout: bare
 tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
