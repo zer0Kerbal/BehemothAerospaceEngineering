@@ -247,8 +247,8 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [twitter]: https://twitter.com/zer0Kerbal
 [youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
 
-[greystork]:  https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/ "greystork"
-[comwarrior]:   https://forum.kerbalspaceprogram.com/index.php?/profile/101751-*/ "Comwarrior"  
+[greystork]: https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/ "greystork"
+[comwarrior]: https://forum.kerbalspaceprogram.com/index.php?/profile/101751-*/ "Comwarrior"  
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 [IMG:flg:0]: https://via.placeholder.com/256x160png/ffffff/bada55?text=KGEx "Mini Sample Return Capsule Flag"
