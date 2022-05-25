@@ -2,13 +2,12 @@
 permalink: /Attributions.html
 title: Attributions
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-# layout: bare
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!--
 Attributions.md v1.0.7.0
-AeroRadial (DM/A)
+Behemoth Aerospace Engineering (BAE)
 created: 01 Feb 2022
 updated: 10 May 2022
 -->
@@ -16,7 +15,7 @@ updated: 10 May 2022
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# AeroRadial (DM/A)
+# Behemoth Aerospace Engineering (BAE)
 
 [Home](./index.md)
 
@@ -25,21 +24,21 @@ updated: 10 May 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/93697-*/"><img border="0" alt="dtobi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > DaMichel</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="DaMichel Ltd (KM)"> the DaMichel series of parts addons!</a></li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/81209-*/"><img border="0" alt="Bezzier" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > Bezzier</a> for picking up where DaMichel left off (Color Curves)</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/"><img border="0" alt="greystork" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-131085.png" width="50" height="50" > greystork</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="Behemoth Aerospace Engineering (BAE)"> Behemoth Aerospace Engineering (BAE)</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/101751-*/"><img border="0" alt="Comwarrior" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2017_02/58967b6e7acda_SpaceKat(smaller).png.dd0c8205a0f91e9ba9ef0693db21201d.thumb.png.253c187538b26b1468595bc91ed087ec.png" width="50" height="50" > Comwarrior</a> for picking up where greystork left off</li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
 ### Flag(s)
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/"><img border="0" alt="greystork" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-131085.png" width="50" height="50" > greystork</a></li>
 </ul>
 
 ### Agency
 
 <ul>
-  <li><a href="(https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
+   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/"><img border="0" alt="greystork" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-131085.png" width="50" height="50" > greystork</a></li>
 </ul>
 
 ### Special Thanks
@@ -60,19 +59,17 @@ updated: 10 May 2022
 ### Art Asset(s)
 
 * Flags
+* Sounds [sound_rocket_deafening.wav]
 
 ### Testing and Support
 
-<ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-eightiesboi/"><img border="0" alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="50" height="50" > eightiesboi</a></li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/66411-zelda/"><img border="0" alt="Zelda" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_07/LoZ_RGB_960x960.thumb.jpg.32a815400e819b11482764bdea71373c.jpg" width="50" height="50" > Zelda</a></li>
-</ul>
+* none (yet)
 
 <!-- links -->
-[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd Forum Thread"
+[BAE]: https://forum.kerbalspaceprogram.com/index.php?/topic/208327-*/ "Behemoth Aerospace Engineering"
 
-[damichel]: https://forum.kerbalspaceprogram.com/index.php?/profile/93697-*/ "damichel"
-[bezzier]: https://forum.kerbalspaceprogram.com/index.php?/profile/81209-*/ "Bezzier"
+[greystork]: https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/ "greystork"
+[comwarrior]: https://forum.kerbalspaceprogram.com/index.php?/profile/101751-*/ "Comwarrior"  
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
@@ -96,4 +93,5 @@ updated: 10 May 2022
 [RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png "Русский"  
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"  
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
+
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
