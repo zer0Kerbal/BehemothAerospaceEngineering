@@ -26,6 +26,10 @@ Behemoth Aerospace Engineering is in no way affiliated with BAE Systems plc.
 
 Change Log:
 -----------
+v1.1.0
++ Added procedural fairings.
++ Added nose cone tanks.
+± Fixed Ajax engine cost.
 v1.0.3
 ± Fixed engine overheat problem.
 v1.0.2
