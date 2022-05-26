@@ -203,6 +203,10 @@
 ## Version 1.0.3.0-release
 
 * Fixed engine overheat problem.
+  * [BAEengine7mB2.cfg]
+    * [heatProduction] was 1300, now 650
+  * [BAEengine10mB5.cfg]
+    * [heatProduction] was 2500, now 650
 
 ### Status
 

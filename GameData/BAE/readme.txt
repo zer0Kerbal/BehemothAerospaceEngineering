@@ -23,3 +23,15 @@ This parts pack is shared under the CC BY-NC-SA license: http://creativecommons.
 Disclaimer:
 -----------
 Behemoth Aerospace Engineering is in no way affiliated with BAE Systems plc.
+
+Change Log:
+-----------
+v1.0.3
+± Fixed engine overheat problem.
+v1.0.2
+± Tweaked engine ISP curves to reflect more realistic payload capabilities.
+v1.0.1
+± Converted all textures to DDE, so they will load faster.
+± Corrected location of version file, so it will actually work.
+v1.0.0
+Release!
