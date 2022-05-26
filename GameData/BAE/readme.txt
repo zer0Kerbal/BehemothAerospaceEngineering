@@ -26,6 +26,16 @@ Behemoth Aerospace Engineering is in no way affiliated with BAE Systems plc.
 
 Change Log:
 -----------
+v1.2.0
++ Added 8m landing legs.
++ Added modular solid rocket boosters.
++ Added resource ModularSolidFuel, allowing for modular SRBs.
++ Added large radial decoupler.
++ Added ablative heat shields.
+± Fixed A1 & A2 engine strut normals.
+± Fixed A2 engine texture.
+± Fixed agency logo loading error.
+± Moved nose tanks to correct tech tree locations.
 v1.1.0
 + Added procedural fairings.
 + Added nose cone tanks.
