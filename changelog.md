@@ -191,6 +191,19 @@
 * Added procedural fairings.
 * Added nose cone tanks.
 * Fixed Ajax engine cost.
+  
+### Update
+
+* Missing Part closing brace `}`
+  * [BAEtank10mLFO4.cfg]
+  * [BAEtank10mLFO05.cfg]
+  * [BAEtank10m5LFO05.cfg]
+  * [BAEtank10m5LFO0.cfg]
+  * [BAEtank10m5LFO1.cfg]
+  * [BAEtank10m7LFO0.cfg]
+  * [BAEtank10m7LFO1.cfg]
+  * [BAEtank5mLFO1.cfg]
+  * [BAEtank5mLFO2.cfg]
 
 ### Status
 
