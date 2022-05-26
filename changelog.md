@@ -10,6 +10,24 @@
 | spacedock  | (https://spacedock.info/mod/225)                                          |
 | ckan       | BehemothAerospaceEngineering                                              |
 
+
+## Version 1.6.99.0-adoption `<NAME>` edition
+
+### Localization
+
+* Part
+  * closes #41 - Localization - Master
+  * closes #42 - English <us-en.cfg>
+  * closes #58 - Part Localization
+
+### Status
+
+* Issues
+  * closes #22 - Behemoth Aerospace Engineering (BAE) 1.6.99.0-adoption `<NAME>` edition
+  * closes #23 - 1.6.99.0 Verify Legal Mumbo Jumbo
+  * closes #24 - 1.6.99.0 Create Documentation
+  * closes #25 - 1.6.99.0 Create Social Media
+
 ## Version 1.6.1.0-release
 
 * Updated supported KSP version in AVC version file
