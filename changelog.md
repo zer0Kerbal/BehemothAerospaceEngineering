@@ -190,8 +190,11 @@
 
 * Added procedural fairings.
 * Added nose cone tanks.
-* Fixed Ajax engine cost.
-  
+* [BAEengine7mA2.cfg]
+  * Fixed Ajax engine cost.
+  * [entryCost] was 60000 now is 96000
+  * [cost] was 33000 now is 56000
+
 ### Update
 
 * Missing Part closing brace `}`
