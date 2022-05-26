@@ -10,6 +10,17 @@
 | spacedock  | (https://spacedock.info/mod/225)                                          |
 | ckan       | BehemothAerospaceEngineering                                              |
 
+## Version 1.6.1.0-release
+
+* Updated supported KSP version in AVC version file
+* Changed version number to be more inline with KSP version number
+
+### Status
+
+* Issues
+  * closes #40 - 1.6.1.0-release
+  * closes #19 - Previous Releases Archival Upload
+
 ---
 
 ## Version 1.3.5.0-release
@@ -19,11 +30,23 @@
 * 'Predator' tanks now support ModuleCrossFeed.
 * Multi fuel tanks now default to LiquidFuel/Oxidizer if neither InterstellarFuelSwitch nor Firespitter is installed.
 
+### Status
+
+* Issues
+  * closes #39 - 1.3.5.0-release
+  * updates #19 - Previous Releases Archival Upload
+
 ---
 
 ## Version 1.3.4.0-release
 
 * KSP 1.0.5 compatibility upgrade
+
+### Status
+
+* Issues
+  * closes #38 - 1.3.4.0-release
+  * updates #19 - Previous Releases Archival Upload
 
 ---
 
@@ -31,17 +54,37 @@
 
 * Added scaled flag in /Agencies to fix problems with Texture Replacer mod.
 
+### Status
+
+* Issues
+  * closes #37 - 1.3.3.0-release
+  * updates #19 - Previous Releases Archival Upload
+
 ---
 
 ## Version 1.3.2.0-release
 
 * Converted flag decal to PNG to fix problems with Texture Replacer mod.
 
+### Status
+
+* Issues
+  * closes #36 - 1.3.2.0-release
+  * updates #19 - Previous Releases Archival Upload
+
 ---
 
 ## Version 1.3.1.0-release
 
 * Fixed visual bug with solar panel arrays.
+  * closes #26 - 1.0.1.0-release
+  * updates #19 - Previous Releases Archival Upload
+
+### Status
+
+* Issues
+  * closes #35 - 1.3.1.0-release
+  * updates #19 - Previous Releases Archival Upload
 
 ---
 
@@ -54,6 +97,12 @@
 * Added solar panels.
 * Adjusted drag for all things red and/or checkered.
 
+### Status
+
+* Issues
+  * closes #34 - 1.3.0.0-release
+  * updates #19 - Previous Releases Archival Upload
+
 ---
 
 ## Version 1.2.3.0-release
@@ -63,11 +112,23 @@
 * Adjusted thermals and drag for SRB nose cones to better reflect KSP 1.0.4 nose cone values.
 * Adjusted drag for radial tanks and nose tanks.
 
+### Status
+
+* Issues
+  * closes #33 - 1.2.3.0-release
+  * updates #19 - Previous Releases Archival Upload
+
 ---
 
 ## Version 1.2.2.0-release
 
-C Fixed KSP version number in version file.
+* Fixed KSP version number in version file.
+
+### Status
+
+* Issues
+  * closes #32 - 1.2.2.0-release
+  * updates #19 - Previous Releases Archival Upload
 
 ---
 
@@ -78,6 +139,12 @@ C Fixed KSP version number in version file.
 * Adjusted SRB thrust and Isp to better reflect KSP 1.0.3 SRB values.
 * Adjusted heat shield maxTemp, etc., to better reflect KSP 1.0.3 heat shield values.
 * Fixed landing leg piston retraction
+
+### Status
+
+* Issues
+  * closes #31 - 1.2.1.0-release
+  * updates #19 - Previous Releases Archival Upload
 
 ---
 
@@ -93,6 +160,12 @@ C Fixed KSP version number in version file.
 * Fixed agency logo loading error.
 * Moved nose tanks to correct tech tree locations.
 
+### Status
+
+* Issues
+  * closes #30 - 1.2.0.0-release
+  * updates #19 - Previous Releases Archival Upload
+
 ---
 
 ## Version 1.1.0.0-release
@@ -101,11 +174,23 @@ C Fixed KSP version number in version file.
 * Added nose cone tanks.
 * Fixed Ajax engine cost.
 
+### Status
+
+* Issues
+  * closes #29 - 1.1.0.0-release
+  * updates #19 - Previous Releases Archival Upload
+
 ---
 
 ## Version 1.0.3.0-release
 
 * Fixed engine overheat problem.
+
+### Status
+
+* Issues
+  * closes #28 - 1.0.3.0-release
+  * updates #19 - Previous Releases Archival Upload
 
 ---
 
@@ -113,12 +198,24 @@ C Fixed KSP version number in version file.
 
 * Tweaked engine ISP curves to reflect more realistic payload capabilities.
 
+### Status
+
+* Issues
+  * closes #27 - 1.0.2.0-release
+  * updates #19 - Previous Releases Archival Upload
+
 ---
 
 ## Version 1.0.1.0-release
 
 * Converted all textures to DDE, so they will load faster.
 * Corrected location of version file, so it will actually work.
+
+### Status
+
+* Issues
+  * closes #26 - 1.0.1.0-release
+  * updates #19 - Previous Releases Archival Upload
 
 ---
 
