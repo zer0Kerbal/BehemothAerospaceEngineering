@@ -26,6 +26,11 @@ Behemoth Aerospace Engineering is in no way affiliated with BAE Systems plc.
 
 Change Log:
 -----------
+- Removed heat shield fairing transparency.
+v1.2.3
+± Adjusted procedural fairing parameters to better reflect KSP 1.0.4 fairing values.
+± Adjusted thermals and drag for SRB nose cones to better reflect KSP 1.0.4 nose cone values.
+± Adjusted drag for radial tanks and nose tanks.
 v1.2.2
 ± Fixed KSP version number in version file.
 v1.2.1
