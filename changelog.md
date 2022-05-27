@@ -98,6 +98,27 @@
   * closes #26 - 1.0.1.0-release
   * updates #19 - Previous Releases Archival Upload
 
+### Update
+
+* Missing Part closing brace `}`
+  * [BAEtank10mLFO4.cfg]
+  * [BAEtank10mLFO05.cfg]
+  * [BAEtank10m5LFO05.cfg]
+  * [BAEtank10m5LFO0.cfg]
+  * [BAEtank10m5LFO1.cfg]
+  * [BAEtank10m7LFO0.cfg]
+  * [BAEtank10m7LFO1.cfg]
+  * [BAEtank5mLFO1.cfg]
+  * [BAEtank5mLFO2.cfg]
+  * [TN5LFO1/BAEnosetank5mLFO1.cfg]
+  * [TN7LFO1/BAEnosetank7mLFO1.cfg]
+  * [TN10LFO1/BAEnosetank10mLFO1.cfg]
+  * [T5LFO4/BAEtank5mLFO4.cfg]
+  * [T5LFO05/BAEtank5mLFO05.cfg]
+  * [T10LFO1/BAEtank10mLFO1.cfg]
+  * [T10LFO2/BAEtank10mLFO2.cfg]
+  * [[T107LFO05/BAEtank10m7LFO05.cfg]
+
 ### Status
 
 * Issues
