@@ -42,6 +42,8 @@ CC BY-ND 4.0 by zer0Kerbal
   * closes #24 - 1.6.99.0 Create Documentation
   * closes #25 - 1.6.99.0 Create Social Media
 
+---
+
 ## Version 1.6.1.0-release
 
 * Updated supported KSP version in AVC version file

@@ -4,7 +4,9 @@ http://forum.kerbalspaceprogram.com/threads/124064
 
 Installation:
 -------------
-First, find your GameData folder, typically located at "C:\Program Files (x86)\Kerbal Space Program\GameData", and delete the BAE folder within. Then copy the BAE folder from the download to your GameData folder. If you do not have the FireSpitter plugin already installed, also copy the FireSpitter folder. If Kerbal Space Program is running, restart the program.
+First, find your GameData folder, typically located at "C:\Program Files (x86)\Kerbal Space Program\GameData", and delete the BAE folder within. Then copy the BAE folder from the download to your GameData folder. If Kerbal Space Program is running, restart the program.
+
+As of version v1.3.5, BAE no longer includes the Firespitter plugin, but supports both it and InterstellarFuelSwitch. Either must be installed to enable multi fuel tanks. In addition, CrossFeedEnabler is required to enable cross feed to radially attached 'Predator' tanks. See the 'recommended mods' section in the forum thread above.
 
 Description:
 ------------
@@ -14,7 +16,7 @@ Engines are kept at reasonable thrust figures and are thus not overpowered compa
 
 Attributions:
 -------------
-This parts pack includes the FireSpitter plugin (http://forum.kerbalspaceprogram.com/threads/24551) and contains config snippets from the Community Tech Tree (http://forum.kerbalspaceprogram.com/threads/100385) by Chris Adderley.
+This parts pack contains config snippets from the Community Tech Tree (http://forum.kerbalspaceprogram.com/threads/100385) by Chris Adderley.
 
 License:
 --------
@@ -26,6 +28,11 @@ Behemoth Aerospace Engineering is in no way affiliated with BAE Systems plc.
 
 Change Log:
 -----------
+v1.3.5
+± Fixed engine heat animations
+± Updated test subjects to new format.
+± 'Predator' tanks now support ModuleCrossFeed.
+± Multi fuel tanks now default to LiquidFuel/Oxidizer if neither InterstellarFuelSwitch nor Firespitter is installed.
 v1.3.4
 ± KSP 1.0.5 compatibility upgrade
 v1.3.3
