@@ -26,8 +26,10 @@ Behemoth Aerospace Engineering is in no way affiliated with BAE Systems plc.
 
 Change Log:
 -----------
+v1.3.4
+± KSP 1.0.5 compatibility upgrade
 v1.3.3
-± Added scaled flag in /Agencies to fix problems with Texture Replacer mod.
++ Added scaled flag in /Agencies to fix problems with Texture Replacer mod.
 v1.3.2
 ± Converted flag decal to PNG to fix problems with Texture Replacer mod.
 v1.3.1
@@ -45,7 +47,7 @@ v1.2.3
 ± Adjusted thermals and drag for SRB nose cones to better reflect KSP 1.0.4 nose cone values.
 ± Adjusted drag for radial tanks and nose tanks.
 v1.2.2
-± Fixed KSP version number in version file.
+C Fixed KSP version number in version file.
 v1.2.1
 - Deleted Firespitter version file.
 ± Adjusted engine heatProduction to better reflect KSP 1.0.3 engine values.
