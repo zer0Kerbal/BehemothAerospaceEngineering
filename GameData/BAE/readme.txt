@@ -26,6 +26,8 @@ Behemoth Aerospace Engineering is in no way affiliated with BAE Systems plc.
 
 Change Log:
 -----------
+v1.3.1
+± Fixed visual bug with solar panel arrays.
 v1.3.0
 ± Replaced Firespitter plugin with newer version.
 + Added parachutes.
