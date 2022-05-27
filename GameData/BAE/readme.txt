@@ -26,8 +26,11 @@ Behemoth Aerospace Engineering is in no way affiliated with BAE Systems plc.
 
 Change Log:
 -----------
+v1.2.2
+± Fixed KSP version number in version file.
 v1.2.1
 - Deleted Firespitter version file.
+± Adjusted engine heatProduction to better reflect KSP 1.0.3 engine values.
 ± Adjusted SRB thrust and Isp to better reflect KSP 1.0.3 SRB values.
 ± Adjusted heat shield maxTemp, etc., to better reflect KSP 1.0.3 heat shield values.
 ± Fixed landing leg piston retraction
