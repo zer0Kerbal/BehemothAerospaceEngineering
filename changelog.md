@@ -28,6 +28,8 @@
   * closes #24 - 1.6.99.0 Create Documentation
   * closes #25 - 1.6.99.0 Create Social Media
 
+---
+
 ## Version 1.6.1.0-release
 
 * Updated supported KSP version in AVC version file
@@ -47,6 +49,27 @@
 * Updated test subjects to new format.
 * 'Predator' tanks now support ModuleCrossFeed.
 * Multi fuel tanks now default to LiquidFuel/Oxidizer if neither InterstellarFuelSwitch nor Firespitter is installed.
+
+### Update
+
+* Missing Part closing brace `}`
+  * [BAEtank10mLFO4.cfg]
+  * [BAEtank10mLFO05.cfg]
+  * [BAEtank10m5LFO05.cfg]
+  * [BAEtank10m5LFO0.cfg]
+  * [BAEtank10m5LFO1.cfg]
+  * [BAEtank10m7LFO0.cfg]
+  * [BAEtank10m7LFO1.cfg]
+  * [BAEtank5mLFO1.cfg]
+  * [BAEtank5mLFO2.cfg]
+  * [TN5LFO1/BAEnosetank5mLFO1.cfg]
+  * [TN7LFO1/BAEnosetank7mLFO1.cfg]
+  * [TN10LFO1/BAEnosetank10mLFO1.cfg]
+  * [T5LFO4/BAEtank5mLFO4.cfg]
+  * [T5LFO05/BAEtank5mLFO05.cfg]
+  * [T10LFO1/BAEtank10mLFO1.cfg]
+  * [T10LFO2/BAEtank10mLFO2.cfg]
+  * [[T107LFO05/BAEtank10m7LFO05.cfg]
 
 ### Status
 
