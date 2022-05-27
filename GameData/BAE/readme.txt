@@ -26,8 +26,10 @@ Behemoth Aerospace Engineering is in no way affiliated with BAE Systems plc.
 
 Change Log:
 -----------
+v1.3.3
+± Added scaled flag in /Agencies to fix problems with Texture Replacer mod.
 v1.3.2
-± Converted flag decal to PNG to fix problems with Texture Replacer and Active Texture Management mods.
+± Converted flag decal to PNG to fix problems with Texture Replacer mod.
 v1.3.1
 ± Fixed visual bug with solar panel arrays.
 v1.3.0
