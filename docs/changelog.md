@@ -1,3 +1,17 @@
+---
+permalink: /Changelog.html
+title: The Change Log
+description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
+tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
+---
+
+<!-- 
+hdr-changelog.md v1.0.0.0
+Behemoth Aerospace Engineering (BAE)   
+created: 13 May 2022
+updated:
+CC BY-ND 4.0 by zer0Kerbal
+-->
 # Changelog  
   
 | modName    | Behemoth Aerospace Engineering (BAE)                                      |
@@ -83,6 +97,28 @@
 ## Version 1.3.2.0-release
 
 * Converted flag decal to PNG to fix problems with Texture Replacer mod.
+
+### Update
+
+* Missing Part closing brace `}`
+  * [BAEtank10mLFO4.cfg]
+  * [BAEtank10mLFO05.cfg]
+  * [BAEtank10m5LFO05.cfg]
+  * [BAEtank10m5LFO0.cfg]
+  * [BAEtank10m5LFO1.cfg]
+  * [BAEtank10m7LFO0.cfg]
+  * [BAEtank10m7LFO1.cfg]
+  * [BAEtank5mLFO1.cfg]
+  * [BAEtank5mLFO2.cfg]
+  * [TN5LFO1/BAEnosetank5mLFO1.cfg]
+  * [TN7LFO1/BAEnosetank7mLFO1.cfg]
+  * [TN10LFO1/BAEnosetank10mLFO1.cfg]
+  * [T5LFO4/BAEtank5mLFO4.cfg]
+  * [T5LFO05/BAEtank5mLFO05.cfg]
+  * [T10LFO1/BAEtank10mLFO1.cfg]
+  * [T10LFO2/BAEtank10mLFO2.cfg]
+  * [[T107LFO05/BAEtank10m7LFO05.cfg]
+
 
 ### Status
 
