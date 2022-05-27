@@ -37,6 +37,11 @@
 
 ### Update
 
+* [fuelCrossFeed] set from True to False
+  * [BAEdecoupledradialtank10mLFO4.cfg]
+  * [BAEdecoupledradialtank5mLFO4.cfg]
+  * [BAEdecoupledradialtank7mLFO4.cfg]
+
 * Missing Part closing brace `}`
   * [BAEtank10mLFO4.cfg]
   * [BAEtank10mLFO05.cfg]
