@@ -10,15 +10,70 @@
 | spacedock  | (https://spacedock.info/mod/225)                                          |
 | ckan       | BehemothAerospaceEngineering                                              |
 
+## Version 1.6.99.0-adoption `<Purple Rhino>` edition
 
-## Version 1.6.99.0-adoption `<NAME>` edition
+### docs/
+
+* Update
+  * [Attribution.md] v1.0.6.0
+  * [ManualInstallation.md] v1.1.7.0
+* Add
+  * [404.md] v1.0.3.1
+  * [Disclaimer.md] v1.0.0.0
+  * [LegalMumboJumbo.md] v1.0.5.0
+  * [Localizations.md] v1.1.3.1
+  * [Marketing.md] v1.0.0.0
+  * [Notices.md] v1.0.0.0
+  * [PartInvoice.md] v1.1.3.1
+  * [_config.yml]* closes #20 - docs/
+
+### Asset Updates
+
+* create Assets/ folder
+* convert from mesh to MODEL
+* rename
+  * models to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * duplicate textures
+  * duplicate models
+* relocate part.cfg to Parts/
+* add thumbs
 
 ### Localization
 
-* Part
+* Create
+  * Localization/
+    * <en-us.cfg>
+    * [readme.md] v2.1.1.0
+    * [quickstart.md] v1.0.1.0
   * closes #41 - Localization - Master
   * closes #42 - English <us-en.cfg>
   * closes #58 - Part Localization
+
+* Missing Part closing brace `}`
+  * FINALLY permanently fixed
+  * [BAEtank10mLFO4.cfg]
+  * [BAEtank10mLFO05.cfg]
+  * [BAEtank10m5LFO05.cfg]
+  * [BAEtank10m5LFO0.cfg]
+  * [BAEtank10m5LFO1.cfg]
+  * [BAEtank10m7LFO0.cfg]
+  * [BAEtank10m7LFO1.cfg]
+  * [BAEtank5mLFO1.cfg]
+  * [BAEtank5mLFO2.cfg]
+  * [TN5LFO1/BAEnosetank5mLFO1.cfg]
+  * [TN7LFO1/BAEnosetank7mLFO1.cfg]
+  * [TN10LFO1/BAEnosetank10mLFO1.cfg]
+  * [T5LFO4/BAEtank5mLFO4.cfg]
+  * [T5LFO05/BAEtank5mLFO05.cfg]
+  * [T10LFO1/BAEtank10mLFO1.cfg]
+  * [T10LFO2/BAEtank10mLFO2.cfg]
+  * [[T107LFO05/BAEtank10m7LFO05.cfg]
 
 ### Status
 
@@ -27,6 +82,23 @@
   * closes #23 - 1.6.99.0 Verify Legal Mumbo Jumbo
   * closes #24 - 1.6.99.0 Create Documentation
   * closes #25 - 1.6.99.0 Create Social Media
+* Housekeeping
+  * closes #3 - ### Documentation
+  * closes #4 - ### Github
+  * closes #5 - ### Adoption
+  * closes #6 - ### Social
+  * closes #7 - ### Repo
+  * closes #8 - Localization
+  * closes #9 - ### Social
+  * closes #10 - ### Release
+  * closes #11 - BehemothAerospaceEngineering (BAE) Version 1.6.99.0-adoption `<EDITION>` edition
+  * closes #12 - ### Legal MumboJumbo
+  * closes #13 - ### Update documentation
+  * closes #14 - Localization - en-us.cfg (English)
+  * closes #15 - Localization - pt-br.cfg Brazil
+  * closes #16 - Localization - zh-cn.cfg - Simplified Chinese
+  * closes #17 - 1.6.99.0-adoption early release
+  * closes #18 - GitHub repo update
 
 ---
 
