@@ -26,8 +26,15 @@ Behemoth Aerospace Engineering is in no way affiliated with BAE Systems plc.
 
 Change Log:
 -----------
-- Removed heat shield fairing transparency.
+v1.3.0
+± Replaced Firespitter plugin with newer version.
++ Added parachutes.
++ Added bi-, tri-, and quad-couplers.
++ Added docking ports.
++ Added solar panels.
+± Adjusted drag for all things red and/or checkered.
 v1.2.3
+- Removed heat shield fairing transparency.
 ± Adjusted procedural fairing parameters to better reflect KSP 1.0.4 fairing values.
 ± Adjusted thermals and drag for SRB nose cones to better reflect KSP 1.0.4 nose cone values.
 ± Adjusted drag for radial tanks and nose tanks.
