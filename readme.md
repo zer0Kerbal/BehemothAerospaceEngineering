@@ -3,7 +3,7 @@ Behemoth Aerospace Engineering (BAE)
 created: 17 Jul 2017
 updated: 17 May 2022 -->
 
-<!--this file: CC BY-ND 4.0 by zer0Kerbal-->
+<!--THIS FILE: CC BY-ND 4.0 by zer0Kerbal-->
 
 [![Behemoth Aerospace Engineering][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
@@ -213,9 +213,9 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
-[PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL/ "PayPal"
+[PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=DC22YHMEJREKL "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
-[PATREON:url]: https://www.patreon.com/bePatron?u=23390503/ "Patreon"
+[PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
 [GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors/ "Github Sponsors"
 [GSPONS:url]: https://github.com/sponsors/zer0Kerbal/ "Github Sponsors"
 [BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee/ "Buy Me A Snack"
@@ -245,7 +245,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [reddit]: https://www.reddit.com/user/zer0Kerbal
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
-[youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
+[youtube]: https://www.youtube.com/@zer0Kerbal
 
 [greystork]: https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/ "greystork"
 [comwarrior]: https://forum.kerbalspaceprogram.com/index.php?/profile/101751-*/ "Comwarrior"  
