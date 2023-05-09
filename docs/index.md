@@ -5,12 +5,10 @@
 
 ## Documents
 - [404](404.md)
-- [Attributions (2)](Attributions%20(2).md)
 - [Attributions](Attributions.md)
 - [Disclaimer](Disclaimer.md)
 - [LegalMumboJumbo](LegalMumboJumbo.md)
 - [Localizations](Localizations.md)
-- [ManualInstallation (2)](ManualInstallation%20(2).md)
 - [ManualInstallation](ManualInstallation.md)
 - [Notices](Notices.md)
 - [PartInvoice](PartInvoice.md)
