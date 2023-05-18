@@ -509,6 +509,7 @@
 
 ## Version 1.0.0.0-release
 
+* 01 Jun 2015
 * Release!
 
 ---
