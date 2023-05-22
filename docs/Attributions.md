@@ -24,27 +24,27 @@ updated: 10 May 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/"><img border="0" alt="greystork" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-131085.png" width="50" height="50" > greystork</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="Behemoth Aerospace Engineering (BAE)"> Behemoth Aerospace Engineering (BAE)</a></li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/101751-*/"><img border="0" alt="Comwarrior" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2017_02/58967b6e7acda_SpaceKat(smaller).png.dd0c8205a0f91e9ba9ef0693db21201d.thumb.png.253c187538b26b1468595bc91ed087ec.png" width="50" height="50" > Comwarrior</a> for picking up where greystork left off</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/"><img alt="greystork" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-131085.png" width="50" height="50" > greystork</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="Behemoth Aerospace Engineering (BAE)"> Behemoth Aerospace Engineering (BAE)</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/101751-*/"><img alt="Comwarrior" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2017_02/58967b6e7acda_SpaceKat(smaller).png.dd0c8205a0f91e9ba9ef0693db21201d.thumb.png.253c187538b26b1468595bc91ed087ec.png" width="50" height="50" > Comwarrior</a> for picking up where greystork left off</li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
 ### Flag(s)
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/"><img border="0" alt="greystork" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-131085.png" width="50" height="50" > greystork</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/"><img alt="greystork" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-131085.png" width="50" height="50" > greystork</a></li>
 </ul>
 
 ### Agency
 
 <ul>
-   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/"><img border="0" alt="greystork" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-131085.png" width="50" height="50" > greystork</a></li>
+   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/"><img alt="greystork" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-131085.png" width="50" height="50" > greystork</a></li>
 </ul>
 
 ### Special Thanks
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-captainkipard/"><img border="0" alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50" height="50" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-captainkipard/"><img alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50" height="50" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
   <li>Squad, for making such a great game!</li>
   <li>Everyone else who made modding tutorials.</li>
 </ul>
@@ -94,4 +94,4 @@ updated: 10 May 2022
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"  
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->

@@ -7,10 +7,6 @@
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208327-*/)         |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/BehemothAerospaceEngineering)   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineering) |
-| spacedock  | (https://spacedock.info/mod/225)                                          |
-| ckan       | BehemothAerospaceEngineering                                              |
-
-## Version 1.6.99.0-adoption `<Purple Rhino>` edition
 
 ### docs/
 
@@ -104,6 +100,10 @@
 
 ## Version 1.6.1.0-release
 
+* Released
+  * 12 Mar 2019
+  * for Kerbal Space Program 1.6.1
+
 * Updated supported KSP version in AVC version file
 * Changed version number to be more inline with KSP version number
 
@@ -133,7 +133,7 @@
   * [T10LFO2/BAEtank10mLFO2.cfg]
   * [[T107LFO05/BAEtank10m7LFO05.cfg]
 
-### Status
+### Status 1.6.1.0
 
 * Issues
   * closes #40 - 1.6.1.0-release
@@ -578,6 +578,7 @@
 
 ## Version 1.0.0.0-release
 
+* 01 Jun 2015
 * Release!
 
 ---
