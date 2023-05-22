@@ -7,8 +7,6 @@
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208327-*/)         |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/BehemothAerospaceEngineering)   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineering) |
-| spacedock  | (https://spacedock.info/mod/225)                                          |
-| ckan       | BehemothAerospaceEngineering                                              |
 
 ## Version 1.6.99.0-adoption `<NAME>` edition
 
