@@ -4,18 +4,21 @@ title: Attributions
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!--
-Attributions.md v1.0.7.0
+Attributions.md v1.6.99.0
 Behemoth Aerospace Engineering (BAE)
+created: 25 May 2022
+updated: 24 May 2023
+
+TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
-updated: 10 May 2022
--->
+updated: 15 Mar 2023
+
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
-
-# Behemoth Aerospace Engineering (BAE)
+## [Behemoth Aerospace Engineering (BAE)][mod]
 
 [Home](./index.md)
 
@@ -29,6 +32,10 @@ updated: 10 May 2022
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
+### Reviews
+
+* [Kottabos Games](https://www.youtube.com/watch?v=CVAygrQ98AI)
+
 ### Flag(s)
 
 <ul>
@@ -41,6 +48,17 @@ updated: 10 May 2022
    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/"><img alt="greystork" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-131085.png" width="50" height="50" > greystork</a></li>
 </ul>
 
+### Contract(s)
+
+* none
+
+### Translations
+
+<ul>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
+  <li><small>Additions and corrections welcome!</small></li>
+</ul>
+
 ### Special Thanks
 
 <ul>
@@ -49,49 +67,19 @@ updated: 10 May 2022
   <li>Everyone else who made modding tutorials.</li>
 </ul>
 
-### Translations
-
-<ul>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png " alt="English" style="zoom:150%;" /> English</li>
-  <li><small>Additions and corrections welcome!</small></li>
-</ul>
-
 ### Art Asset(s)
 
 * Flags
+* Hero Logo/Cover - All Rights Reserved
 * Sounds [sound_rocket_deafening.wav]
 
 ### Testing and Support
 
 * none (yet)
 
-<!-- links -->
-[BAE]: https://forum.kerbalspaceprogram.com/index.php?/topic/208327-*/ "Behemoth Aerospace Engineering"
+---
 
-[greystork]: https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/ "greystork"
-[comwarrior]: https://forum.kerbalspaceprogram.com/index.php?/profile/101751-*/ "Comwarrior"  
-[cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
 
-<!-- Localization -->
-[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
-[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
-
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png "English"  
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png "Português Brasil"
-[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/CH.png "中文"  
-[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/DE.png "Deutsch"  
-[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/ES.png "Español"  
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png "Français"  
-[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png "Italiano"  
-[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/JA.png "日本語"  
-[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/KO.png "한국어"  
-[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/MX.png "Mexicano Español"  
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png "Dutch"  
-[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NO.png "Norsk"
-[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/PO.png "Polski"  
-[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png "Русский"  
-[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"  
-[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
-
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineering "Behemoth Aerospace Engineering (BAE)"
