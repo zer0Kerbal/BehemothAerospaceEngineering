@@ -15,6 +15,8 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 ## [Behemoth Aerospace Engineering (BAE)][CURSFG:url]
 
+99 Behemoth Parts
+
 This parts pack contains engines, tanks, and other part categories in three sizes that do not exist in stock KSP, namely 5m, 7.5m, and 10m. Parts are color-coded according to the [universal electronic color code](http://en.wikipedia.org/wiki/Electronic_color_code), simply because the author is an old RDAF radar technician. Hence, size4 (5m) is yellow, size5 (7.5m) is green, and size6 (10m) is blue.
 
 Engines are kept at reasonable thrust figures and are thus not overpowered compared to the thrust/size curve of stock parts. The same goes for reaction wheels. Big spaceships are going to be sluggish, as one would expect.
@@ -67,26 +69,36 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
 
+### Suggests
+
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+* [On Demand Fuel Cells (ODFC)][ODFC]
+* [Kerbal Joint Reinforcement (kjr)][kjr] - ensures that your big spaceships suffer less from unplanned rapid disassembly.
+
 ### Supports
 
-* [ModularManagement (MM)][MM] or [Module Manager][omm]
-
+* [Booster Segments (BSEG)][BSEG]
+* [~~Cross Feed Enabler] - enables cross feed to radially attached 'Predator' tanks~~
 * [Community Tech Tree (ctt)][ctt]
-Mesh Switch: Interstellar Fuel Switch or Firespitter - enables multi-fuel tanks.
-~~Cross Feed Enabler - enables cross feed to radially attached 'Predator' tanks~~
-Community Tech Tree - extends the stock technology tree with lots of new nodes for your favorite parts packs to fill.
-Kerbal Joint Reinforcement - ensures that your big spaceships suffer less from unplanned rapid disassembly.
+* [Community Tech Tree][ctt] - extends the stock technology tree with lots of new nodes for your favorite parts packs to fill.
+* [Connected Living Space (CLS)][cls]
+* [DefaultActionGroups (dag)][dag]
+* [Engine Ignitor (ign)][ign]
+* Fuel Switchers
+  * [B9PartSwitcher][b9ps]
+  * [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
+  * [Interstellar Fuel Switch (core)][ifsc]
+  * [Modular Fuel Tanks][mft]
+* [Kerbal Operating System (kOS)][kos]
+* [ModularManagement (MM)][MM] or [Module Manager][omm]
+* [RemoteTech (rt)][rt]
+* [SCANSat (scan)][scan]
+* [Tarsier Space Tech (tst)][tst]
+* [TweakScale (TWK)][twk]
 
-* [On Demand Fuel Cells (ODFC)][ODFC]
-* [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 ### Tags
 
-parts,
-flags,
-agency,
-sound,
-resources
+parts, flags, agency, sound
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
   <p><b>red box below is a link to forum post on how to get support</b></p>
@@ -185,15 +197,26 @@ Comment, click, like, share, up-vote, subscribe
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/BehemothAerospaceEngineering/master/json/ksp.json "Kerbal Space Program"
 
 <!-- links to add-ons/mods -->  
+[BSEG]: https://www.curseforge.com/kerbal/ksp-mods/BoosterSegments "Booster Segments (BSEG)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 
-[fs]: https://github.com/snjo/Firespitter/ "Firespitter"
+[b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
+[cls]: http://forum.kerbalspaceprogram.com/index.php?showtopic=192130-*/ "Connected Living Space (CLS)"
+[ctt]: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-*/ "Community Tech Tree (ctt)"
+[dag]: http://forum.kerbalspaceprogram.com/index.php?/topic/125832-*/ "DefaultActionGroups (DAG)"
+[fs]: https://github.com/snjo/Firespitter/ "Firespitter Core"
+[ifsc]: https://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch (Core)"
+[ign]: https://forum.kerbalspaceprogram.com/index.php?/topic/168424-*/ "Engine Ignitor (ign)"
+[kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement"
+[kos]: https://forum.kerbalspaceprogram.com/index.php?/topic/165628-*/ "Kerbal Operating System"
+[mft]: http://forum.kerbalspaceprogram.com/index.php?/topic/58235-*/ "Modular Fuel Tanks"
 [MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
 [omm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
+[rt]: https://remotetechnologiesgroup.github.io/RemoteTech/ "RemoteTech (RT)"
+[scan]: https://forum.kerbalspaceprogram.com/index.php?/topic/72679-*/ "SCANSat"
+[tst]: http://forum.kerbalspaceprogram.com/index.php?/topic/154853-*/ "Tarsier Space Tech"
 [twk]: https://www.curseforge.com/kerbal/ksp-mods/TweakScale "TweakScale"
-
-[kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement-Next"
 
 [greystork]: https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/ "greystork"
 [comwarrior]: https://forum.kerbalspaceprogram.com/index.php?/profile/101751-*/ "Comwarrior"  
