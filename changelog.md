@@ -162,9 +162,9 @@
     * <en-us.cfg> v1.0.0.0
     * [readme.md] v2.1.2.0
     * [quickstart.md] v1.0.1.1
-  * closes #41 - Localization - Master
+  * closes #42 - English <us-en.cfg>
   * closes #58 - Part Localization
-  * updates #42 - English <us-en.cfg>
+  * updates #41 - Localization - Master
 
 ### docs/ 1.6.99.0
 
