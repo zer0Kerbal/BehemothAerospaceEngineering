@@ -40,7 +40,6 @@ Engines are kept at reasonable thrust figures and are thus not overpowered compa
 
 >  Review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 >
->
 >[![KSP Mods - Behemoth Aerospace Engineering](https://img.youtube.com/vi/CVAygrQ98AI/0.jpg)](https://www.youtube.com/watch?v=CVAygrQ98AI)
 </details>
 
@@ -79,9 +78,8 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 * [Booster Segments (BSEG)][BSEG]
 * [~~Cross Feed Enabler] - enables cross feed to radially attached 'Predator' tanks~~
-* [Community Tech Tree (ctt)][ctt]
 * [Community Tech Tree][ctt] - extends the stock technology tree with lots of new nodes for your favorite parts packs to fill.
-* [Connected Living Space (CLS)][cls]
+* [Connected Living Space (cls)][cls]
 * [DefaultActionGroups (dag)][dag]
 * [Engine Ignitor (ign)][ign]
 * Fuel Switchers
