@@ -79,7 +79,6 @@ CC BY-ND 4.0 by zer0Kerbal
   * 1.0.2.0-release  `<Archival>`
   * 1.0.1.0-release  `<Archival>`
 
-
 ### Part Updates  1.6.99.0
 
 * Add
