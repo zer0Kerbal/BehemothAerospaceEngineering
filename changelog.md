@@ -23,9 +23,23 @@
 
 ### Change Summary 1.6.99.1
 
-* Part update
-  * Phase IV-V completed
-    * 
+* Update
+  * Phase IV-VI started
+    * inventory/cargo modules
+    * attach nodes
+    * DRAG_CUBES
+      * not included due to the _behemoth_ size of these parts
+  * Command
+  * Decouplers
+  * Docking
+  * Engines
+    * [ModuleAlternator]
+      * thank you to [Lisias](https://github.com/Lisias)
+  * Electrical
+    * the solar panels were taking an extended `Jeb's Nuclear Coffee` break
+    * they are now back to work
+  * Utility
+* Add compatibility: [GimbalTrim.cfg] v1.0.0.0
 * Localize
   * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
   * Спасибо [evanisrael](https://github/evanisrael)
@@ -36,10 +50,10 @@
 
 * Update
   * Phase IV-V completed
-    * cargo/inventory part
-      * not included due to the behemoth size of these parts
-    * DRAG_CUBES
     * attach nodes
+    * DRAG_CUBES
+    * cargo/inventory part
+      * not included due to the _behemoth_ size of these parts
   * Parts updated
     * Command
     * Decouplers
@@ -48,15 +62,11 @@
       * [ModuleAlternator]
         * thank you to [Lisias](https://github.com/Lisias)
     * Electrical
+      * the solar panels were taking an extended `Jeb's Nuclear Coffee` break
+      * they are now back to work
     * Utility
 * Add [GimbalTrim.cfg] v1.0.0.0
-
-    * Aero
-    * Control
-    * FuelTanks
-    * HeatShield
-    * SRB
-    * Structural
+* updates #77 - Solar Panels not generating power
 
 #### Compatibility 1.6.99.1
 
@@ -110,7 +120,6 @@
 * Issues
   * closes #81 - 1.6.99.1 Additional Tasks
   * closes #80 - Behemoth Aerospace Engineering (BAE) 1.6.99.1-prerelease `<Спасибо evanisrael>` edition
-  * updates #77 - Solar Panels not generating power
 
 ---
 
