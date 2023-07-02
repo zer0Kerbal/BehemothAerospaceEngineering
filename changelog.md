@@ -23,6 +23,9 @@
 
 ### Change Summary 1.6.99.1
 
+* Part update
+  * Phase IV-V completed
+    * 
 * Localize
   * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
   * Спасибо [evanisrael](https://github/evanisrael)
@@ -38,14 +41,17 @@
     * [quickstart-ru.md] v1.0.0.0
     * Спасибо [evanisrael](https://github/evanisrael)
 * Update
+  * [en-us.cfg] v1.0.1.0
   * [ru.cfg] v1.0.1.0
   * add header, give credit
-  * closes #49 - Russian (Русский) <ru.cfg>
-  * updates #42 - English <us-en.cfg>
-  * updates #41 - Localization - Master
+* closes #49 - Russian (Русский) <ru.cfg>
+* updates #41 - Localization - Master
+* updates #42 - English <us-en.cfg>
 
 #### Documentation 1.6.99.1
 
+* Add
+  * [Flags.md] v1.0.0.0
 * Update
   * [Attributions.md] 1.6.99.1
   * [Localizations.md] 1.6.99.1
