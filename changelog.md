@@ -30,6 +30,50 @@
   * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
   * Спасибо [evanisrael](https://github/evanisrael)
 
+### Changes 1.6.99.1
+
+#### Parts 1.6.99.1
+
+* Update
+  * Phase IV-V completed
+    * cargo/inventory part
+      * not included due to the behemoth size of these parts
+    * DRAG_CUBES
+    * attach nodes
+  * Parts updated
+    * Command
+    * Decouplers
+    * Docking
+    * Engines
+    * Electrical
+    * Utility
+
+    * Aero
+    * Control
+    * FuelTanks
+    * HeatShield
+    * SRB
+    * Structural
+
+#### Compatibility 1.6.99.1
+
+* Update
+  * Fuel Switchers
+    * [B9Fuelswitch.cfg] v1.0.1.0
+    * [FuelSwitch.cfg] v1.0.1.0
+    * [ModularFuelTanks.cfg] v1.0.1.0
+
+#### Config 1.6.99.1
+
+* Update
+  * [ghostParts.cfg] v1.0.1.0
+    * move oldName cleanup to cleanup.cfg
+  * [Resources.cfg] v1.6.99.1
+    * :NEEDS
+* Add [cleanup.cfg] v1.0.0.0
+  * cleanup oldName in part files
+
+
 #### Localization 1.6.99.1
 
 * Add
