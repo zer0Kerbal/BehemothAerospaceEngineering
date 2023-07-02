@@ -45,8 +45,11 @@
     * Decouplers
     * Docking
     * Engines
+      * [ModuleAlternator]
+        * thank you to [Lisias](https://github.com/Lisias)
     * Electrical
     * Utility
+* Add [GimbalTrim.cfg] v1.0.0.0
 
     * Aero
     * Control
@@ -62,6 +65,7 @@
     * [B9Fuelswitch.cfg] v1.0.1.0
     * [FuelSwitch.cfg] v1.0.1.0
     * [ModularFuelTanks.cfg] v1.0.1.0
+* Add [GimbalTrim.cfg] v1.0.0.0
 
 #### Config 1.6.99.1
 
@@ -72,7 +76,6 @@
     * :NEEDS
 * Add [cleanup.cfg] v1.0.0.0
   * cleanup oldName in part files
-
 
 #### Localization 1.6.99.1
 
