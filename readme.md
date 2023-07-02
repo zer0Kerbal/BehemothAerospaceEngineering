@@ -1,23 +1,22 @@
-<!-- readme.md v1.6.99.0
+<!-- readme.md v1.6.99.1
 Behemoth Aerospace Engineering (BAE)
 created: 02 Jun 2015
-updated: 17 May 2023
+updated: 01 Jul 2023
 
-TEMPLATE: readme.md v1.7.3.1
-created: 01 Jun 2015
-updated: 21 May 2023
+TEMPLATE: readme.md v1.7.4.2
+created: 17 Jul 2017
+updated: 18 Jun 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+# [Behemoth Aerospace Engineering (BAE)][CURSFG:url]
 
 [![Behemoth Aerospace Engineering (BAE)][SHD:mod]][CURSFG:url]  
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![GitHub Pages][SHD:pgs]][pages]
 
-## [Behemoth Aerospace Engineering (BAE)][CURSFG:url]
-
 99 Behemoth Parts
 
-This parts pack contains engines, tanks, and other part categories in three sizes that do not exist in stock KSP, namely 5m, 7.5m, and 10m. Parts are color-coded according to the [universal electronic color code](http://en.wikipedia.org/wiki/Electronic_color_code), simply because the author is an old RDAF radar technician. Hence, size4 (5m) is yellow, size5 (7.5m) is green, and size6 (10m) is blue.
+This parts pack contains engines, tanks, and other part categories in three sizes that do not exist in stock KSP, namely 5m, 7.5m, and 10m. Parts are color-coded according to the [universal electronic color code](http://en.wikipedia.org/wiki/Electronic_color_code), simply because the author is an old [RDAF](https://en.wikipedia.org/wiki/Royal_Danish_Air_Force) radar technician. Hence, size4 (5m) is yellow, size5 (7.5m) is green, and size6 (10m) is blue.
 
 Engines are kept at reasonable thrust figures and are thus not overpowered compared to the thrust/size curve of stock parts. The same goes for reaction wheels. Big spaceships are going to be sluggish, as one would expect.
 
@@ -35,8 +34,7 @@ Engines are kept at reasonable thrust figures and are thus not overpowered compa
 >* [Parts Catalog][parts] for part pictures
 >* [Wiki: universal electronic color code](http://en.wikipedia.org/wiki/Electronic_color_code)
 
-<details>
-  <summary><img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px"></summary>
+### <img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px">
 
 >  Review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 >
@@ -45,7 +43,7 @@ Engines are kept at reasonable thrust figures and are thus not overpowered compa
 
 ### Localization
 
->* ![English][EN] English
+>* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English
 >* ***your translation here***
 
 ### Help Wanted
@@ -55,7 +53,7 @@ Engines are kept at reasonable thrust figures and are thus not overpowered compa
 > * Sample crafts/subassemblies
 > * Variant textures and model updates (add/improve: lights, iva, hatches et al)
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
-> * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> * Translations: See the [README's in the Localization folder](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md) for instructions for adding or improving translations. There is also the [quick start guide(s)](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md). [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
 ### Installation Directions
@@ -70,29 +68,48 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Suggests
 
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-* [On Demand Fuel Cells (ODFC)][ODFC]
-* [Kerbal Joint Reinforcement (kjr)][kjr] - ensures that your big spaceships suffer less from unplanned rapid disassembly.
+* [Adjustable Mod Panel (KAMP)](https://curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
+* [Drop Tanks (DROP)](https://curseforge.com/kerbal/ksp-mods/DropTanks)
+* [Drop Tanks III (DTIII)](https://curseforge.com/kerbal/ksp-mods/DropTanksIII)
+* [Exception Detector (EXCD)](https://curseforge.com/kerbal/ksp-mods/ExceptionDetector)
+* [Gimbal Trim (TRIM)](https://curseforge.com/kerbal/ksp-mods/GimbalTrim)
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)](https://curseforge.com/kerbal/ksp-mods/GPOSpeedPump)
+* [Kaboom! (BOOM)](https://curseforge.com/kerbal/ksp-mods/Kaboom)
+* [On Demand Fuel Cells (ODFC)](https://curseforge.com/kerbal/ksp-mods/OnDemandFuelCells)
+* [Precise Maneuver (PM)](https://curseforge.com/kerbal/ksp-mods/PreciseManeuver)
+* [SimpleLogistics! (SLOG)](https://curseforge.com/kerbal/ksp-mods/SimpleLogistics)
+* [SimpleNotes! (NOTE)](https://curseforge.com/kerbal/ksp-mods/Notes)
+* More large parts:
+  * [Coyote Cargo Freighter (CCF)](https://curseforge.com/kerbal/ksp-mods/CoyoteCargoFreighter)
+  * [Lithobrake Exploration Technologies (LET)](https://curseforge.com/kerbal/ksp-mods/LithobrakeExplorationTechnologies) lander parts, large chutes/legs/ladders/etc
+  * [Modular Rocket Systems (MRS)](https://curseforge.com/kerbal/ksp-mods/ModularRocketSystems) stock-alike parts pack, NASA-like alternatives, and filling the gaps
+  * [Modular Rocket Systems LITE (MRSL)](https://curseforge.com/kerbal/ksp-mods/ModularRocketSystemsLite)
+  * [SeaDragon (SEA)](https://curseforge.com/kerbal/ksp-mods/SeaDragon)
+  * [SpaceY Expanded (SYX)](https://curseforge.com/kerbal/ksp-mods/SpaceYExpanded)
+  * [SpaceY Lifters (SYL)](https://curseforge.com/kerbal/ksp-mods/SpaceYLifters) stock-balanced large rocket parts, 5m parts, large SRBs
+  * [The Elephant Engine (ELEP)](https://curseforge.com/kerbal/ksp-mods/ElephantEngine)
+* [Kerbal Joint Reinforcement (kjr)](https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/) - <small><i>ensures that your big spaceships suffer less from unplanned rapid disassembly.</small></i>
 
 ### Supports
 
-* [Booster Segments (BSEG)][BSEG]
 * [~~Cross Feed Enabler] - enables cross feed to radially attached 'Predator' tanks~~
-* [Community Tech Tree][ctt] - extends the stock technology tree with lots of new nodes for your favorite parts packs to fill.
-* [Connected Living Space (cls)][cls]
-* [DefaultActionGroups (dag)][dag]
-* [Engine Ignitor (ign)][ign]
-* Fuel Switchers
-  * [B9PartSwitcher][b9ps]
-  * [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
-  * [Interstellar Fuel Switch (core)][ifsc]
-  * [Modular Fuel Tanks][mft]
-* [Kerbal Operating System (kOS)][kos]
-* [ModularManagement (MM)][MM] or [Module Manager][omm]
-* [RemoteTech (rt)][rt]
-* [SCANSat (scan)][scan]
-* [Tarsier Space Tech (tst)][tst]
-* [TweakScale (TWK)][twk]
+* [Booster Segments (BSEG)](https://curseforge.com/kerbal/ksp-mods/BoosterSegments)<small><i></small></i>
+* [Community Tech Tree (ctt)](https://legacy.curseforge.com/kerbal/ksp-mods/community-tech-tree) - <small><i>extends the stock technology tree with lots of new nodes for your favorite parts packs to fill.* </small></i>
+* [Connected Living Space (CLS)](https://curseforge.com/kerbal/ksp-mods/connectedlivingspace)
+* [Default Action Groups (DAG)](http://forum.kerbalspaceprogram.com/index.php?/topic/125832-*/) enables automatic toggling of SAS on reaction wheels
+* [Engine Ignitor (ign)](https://forum.kerbalspaceprogram.com/index.php?/topic/168424-*/)
+* [Kerbal Operating System (KOS)](https://forum.kerbalspaceprogram.com/index.php?/topic/165628-*/)
+* [ModularManagement (MM)](https://curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
+* [RemoteTech (RT)](https://remotetechnologiesgroup.github.io/RemoteTech/)
+* [SCANSat (scan)](https://forum.kerbalspaceprogram.com/index.php?/topic/72679-*/)
+* [Tarsier Space Tech (tst)](http://forum.kerbalspaceprogram.com/index.php?/topic/154853-*/)
+* [TweakScale (twk)](https://curseforge.com/kerbal/ksp-mods/TweakScale)
+* Fuel Switchers:
+  * [B9 Part Switch](https://forum.kerbalspaceprogram.com/topic/140541-*/)
+  * [FireSpitter Core](https://legacy.curseforge.com/kerbal/ksp-mods/firespitter)
+  * [Interstellar Fuel Switch Core](https://legacy.curseforge.com/kerbal/ksp-mods/interstellar-fuel-switch)
+  * [Modular Fuel Tanks](http://forum.kerbalspaceprogram.com/index.php?/topic/58235-*/)
+  * [SimpleFuelSwitch](https://forum.kerbalspaceprogram.com/topic/181274-*/)
 
 ### Tags
 
@@ -115,17 +132,17 @@ parts, flags, agency, sound
 
 #### Author (1) - [`zer0Kerbal`][zer0Kerbal]
 
-> Forum: [Thread][forum] - Source: [GitHub][GITHUB:url]  
+> Forum: [Thread][forum] - Source: [GitHub][GITHUB:url] - Download [CurseForge][CURSFG:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
 
 #### Author (1) - Author: [`Comwarrior`][Comwarrior]
 
-> Forum: [Thread][1:thd] - Download: [CurseForge][1:dld] - Source: [SpaceDock][1:src]  
+> Forum: [Thread][1:thd] - Download: [CurseForge][1:dwn] - Source: [SpaceDock][1:src]  
 > License: [![License][1:shd]][1:url] ![License][1:log]
 
 #### Original Author (ROOT) (0): [`greystork`][greystork]
 
-> Forum: [Thread][0:thd] - Download: [CurseForge][0:dld] - Source: [SpaceDock][0:src]  
+> Forum: [Thread][0:thd] - Download: [CurseForge][0:dwn] - Source: [SpaceDock][0:src]  
 > License: [![License][0:shd]][0:url] ![License][0:log]
 
 #### Disclaimer(s)
@@ -160,11 +177,11 @@ Comment, click, like, share, up-vote, subscribe
 [SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[1:dld]: https://www.curseforge.com/kerbal/ksp-mods/behemothaerospaceengineering "CurseForge"
+[1:dwn]: https://www.curseforge.com/kerbal/ksp-mods/behemothaerospaceengineering "CurseForge"
 [1:src]: https://spacedock.info/mod/2109 "SpaceDock"
 [1:thd]: https://forum.kerbalspaceprogram.com/index.php?/topic/182825-*/ "KSP Forum"
 
-[0:dld]: https://www.curseforge.com/kerbal/ksp-mods/behemothaerospaceengineering "CurseForge"
+[0:dwn]: https://www.curseforge.com/kerbal/ksp-mods/behemothaerospaceengineering "CurseForge"
 [0:src]: https://spacedock.info/mod/2109 "SpaceDock"
 [0:thd]: https://forum.kerbalspaceprogram.com/index.php?/topic/111733-*/ "KSP Forum"
 
@@ -194,28 +211,7 @@ Comment, click, like, share, up-vote, subscribe
 [KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/BehemothAerospaceEngineering/master/json/ksp.json "Kerbal Space Program"
 
-<!-- links to add-ons/mods -->  
-[BSEG]: https://www.curseforge.com/kerbal/ksp-mods/BoosterSegments "Booster Segments (BSEG)"
-[ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
-[GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
-
-[b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
-[cls]: http://forum.kerbalspaceprogram.com/index.php?showtopic=192130-*/ "Connected Living Space (CLS)"
-[ctt]: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-*/ "Community Tech Tree (ctt)"
-[dag]: http://forum.kerbalspaceprogram.com/index.php?/topic/125832-*/ "DefaultActionGroups (DAG)"
-[fs]: https://github.com/snjo/Firespitter/ "Firespitter Core"
-[ifsc]: https://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch (Core)"
-[ign]: https://forum.kerbalspaceprogram.com/index.php?/topic/168424-*/ "Engine Ignitor (ign)"
-[kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement"
-[kos]: https://forum.kerbalspaceprogram.com/index.php?/topic/165628-*/ "Kerbal Operating System"
-[mft]: http://forum.kerbalspaceprogram.com/index.php?/topic/58235-*/ "Modular Fuel Tanks"
-[MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
-[omm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[rt]: https://remotetechnologiesgroup.github.io/RemoteTech/ "RemoteTech (RT)"
-[scan]: https://forum.kerbalspaceprogram.com/index.php?/topic/72679-*/ "SCANSat"
-[tst]: http://forum.kerbalspaceprogram.com/index.php?/topic/154853-*/ "Tarsier Space Tech"
-[twk]: https://www.curseforge.com/kerbal/ksp-mods/TweakScale "TweakScale"
-
+<!-- links -->  
 [greystork]: https://forum.kerbalspaceprogram.com/index.php?/profile/131085-*/ "greystork"
 [comwarrior]: https://forum.kerbalspaceprogram.com/index.php?/profile/101751-*/ "Comwarrior"  
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
@@ -225,11 +221,6 @@ Comment, click, like, share, up-vote, subscribe
 [PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=DC22YHMEJREKL "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
 [PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
-
-<!-- Localization -->
-[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
-[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English" 
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
