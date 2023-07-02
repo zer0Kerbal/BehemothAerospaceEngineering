@@ -30,7 +30,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 ### Behemoth Aerospace Engineering (BAE)
 
- <img src="https://raw.githubusercontent.com/zer0Kerbal/BehemothAerospaceEngineering/master/docs/Flags/vehemoth.png" alt="Behemoth Aerospace Engineering (BAE)" style="zoom:75%;" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/BehemothAerospaceEngineering/master/docs/Flags/behemoth.png" alt="Behemoth Aerospace Engineering (BAE)" style="zoom:75%;" />
 
 [top](#flags)
 
