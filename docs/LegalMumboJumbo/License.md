@@ -7,7 +7,7 @@ Behemoth Aerospace Engineering Large Parts (BAE-LP)
 created: 06 Feb 2014
 updated: 07 Mar 2022 -->
 
-# [CC BY-NC-SA 4.0+ARR](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt)
+# [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt)
 
 ![CC](https://creativecommons.org/images/deed/svg/cc_blue.svg) ![Attribution](https://creativecommons.org/images/deed/svg/attribution_icon_blue.svg) ![NonCommercial](https://creativecommons.org/images/deed/svg/nc_blue.svg) ![Share Alike](https://creativecommons.org/images/deed/svg/sa_blue.svg)
 

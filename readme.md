@@ -21,7 +21,7 @@ This parts pack contains engines, tanks, and other part categories in three size
 
 Engines are kept at reasonable thrust figures and are thus not overpowered compared to the thrust/size curve of stock parts. The same goes for reaction wheels. Big spaceships are going to be sluggish, as one would expect.
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by [`greystork`][greystork] with [Comwarrior`][comwarrior]
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`greystork`][greystork] then by [Comwarrior`][comwarrior]
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/BehemothAerospaceEngineering/master/img/HeroLogo.png" alt="Behemoth Aerospace Engineering Hero" width="50%" height="50%">
 
