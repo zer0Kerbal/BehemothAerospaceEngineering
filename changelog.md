@@ -2,11 +2,64 @@
   
 | modName    | Behemoth Aerospace Engineering (BAE)                                      |
 | ---------- | ------------------------------------------------------------------------- |
-| license    | CC-BY-NC-SA-4.0                                                           |
+| license    | CC-BY-NC-SA-4.0+ARR                                                       |
 | author     | greystork, Comwarrior and zer0Kerbal                                      |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208327-*/)         |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/BehemothAerospaceEngineering)   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineering) |
+
+## Version 1.6.99.1-prerelease - `<Спасибо evanisrael>` edition
+
+* Released
+  * 01 Jul 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * 99/99 parts are included
+  * search for `bea` (and others) in the editor search bar to find all parts in this pack.
+  * <ghostparts.cfg> is provided ***but not enabled***
+    * Can be enabled if installing into an existing save to keep in flight vessels, but will not work on .craft/.subassemblies
+
+### Change Summary 1.6.99.1
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github/evanisrael)
+
+#### Localization 1.6.99.1
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+  * closes #49 - Russian (Русский) <ru.cfg>
+  * updates #42 - English <us-en.cfg>
+  * updates #41 - Localization - Master
+
+#### Documentation 1.6.99.1
+
+* Update
+  * [Attributions.md] 1.6.99.1
+  * [Localizations.md] 1.6.99.1
+  * [readme.md] v1.6.99.1
+  * [ReleaseLayout.md] v1.6.99.1
+
+### Status 1.6.99.1
+
+* Issues
+  * closes #81 - 1.6.99.1 Additional Tasks
+  * closes #80 - Behemoth Aerospace Engineering (BAE) 1.6.99.1-prerelease `<Спасибо evanisrael>` edition
+  * updates #77 - Solar Panels not generating power
+
+---
 
 ## Version 1.6.99.0-adoption - `<Thank you greystork and Comwarrior>` edition
 
