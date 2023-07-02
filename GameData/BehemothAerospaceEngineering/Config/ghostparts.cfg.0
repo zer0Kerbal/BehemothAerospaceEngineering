@@ -1,7 +1,7 @@
-// ghostParts.cfg v1.0.0.0
+// ghostParts.cfg v1.0.1.0
 // Behemoth Aerospace Engineering (BAE)
 // created: 21 May 2023
-// updated: 
+// updated: 01 Jul 2023
 //
 // TEMPLATE: ghostParts.cfg v2.0.2.0
 // created: 17 Aug 2017
@@ -22,6 +22,4 @@
 	!manufacturer = DELETE
 	@description = This part has been depreciated, kindly use new part.
 	!tags = DELETE
-	!oldName = DELETE
-	// !FuelVolume = DELETE
 }
