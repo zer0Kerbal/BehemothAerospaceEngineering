@@ -16,11 +16,126 @@ CC BY-ND 4.0 by zer0Kerbal
   
 | modName    | Behemoth Aerospace Engineering (BAE)                                      |
 | ---------- | ------------------------------------------------------------------------- |
-| license    | CC-BY-NC-SA-4.0                                                           |
+| license    | CC-BY-NC-SA-4.0+ARR                                                       |
 | author     | greystork, Comwarrior and zer0Kerbal                                      |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208327-*/)         |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/BehemothAerospaceEngineering)   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineering) |
+
+## Version 1.6.99.1-prerelease - `<Спасибо evanisrael>` edition
+
+* Released
+  * 01 Jul 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * 99/99 parts are included
+  * search for `bea` (and others) in the editor search bar to find all parts in this pack.
+  * <ghostparts.cfg> is provided ***but not enabled***
+    * Can be enabled if installing into an existing save to keep in flight vessels, but will not work on .craft/.subassemblies
+
+### Change Summary 1.6.99.1
+
+* Update
+  * Phase IV-VI started
+    * inventory/cargo modules
+    * attach nodes
+    * DRAG_CUBES
+      * not included due to the _behemoth_ size of these parts
+  * Command
+  * Decouplers
+  * Docking
+  * Engines
+    * [ModuleAlternator]
+      * thank you to [Lisias](https://github.com/Lisias)
+  * Electrical
+    * the solar panels were taking an extended `Jeb's Nuclear Coffee` break
+    * they are now back to work
+  * Utility
+* Add compatibility: [GimbalTrim.cfg] v1.0.0.0
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github/evanisrael)
+
+### Changes 1.6.99.1
+
+#### Parts 1.6.99.1
+
+* Update
+  * Phase IV-V completed
+    * attach nodes
+    * DRAG_CUBES
+    * cargo/inventory part
+      * not included due to the _behemoth_ size of these parts
+  * Parts updated
+    * Command
+    * Decouplers
+    * Docking
+    * Engines
+      * [ModuleAlternator]
+        * thank you to [Lisias](https://github.com/Lisias)
+    * Electrical
+      * the solar panels were taking an extended `Jeb's Nuclear Coffee` break
+      * they are now back to work
+    * Utility
+* Add [GimbalTrim.cfg] v1.0.0.0
+* updates #77 - Solar Panels not generating power
+
+#### Compatibility 1.6.99.1
+
+* Update
+  * Fuel Switchers
+    * [B9Fuelswitch.cfg] v1.0.1.0
+    * [FuelSwitch.cfg] v1.0.1.0
+    * [ModularFuelTanks.cfg] v1.0.1.0
+* Add [GimbalTrim.cfg] v1.0.0.0
+
+#### Config 1.6.99.1
+
+* Update
+  * [ghostParts.cfg] v1.0.1.0
+    * move oldName cleanup to cleanup.cfg
+  * [Resources.cfg] v1.6.99.1
+    * :NEEDS
+* Add [cleanup.cfg] v1.0.0.0
+  * cleanup oldName in part files
+
+#### Localization 1.6.99.1
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [en-us.cfg] v1.0.1.0
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+* closes #49 - Russian (Русский) <ru.cfg>
+* updates #41 - Localization - Master
+* updates #42 - English <us-en.cfg>
+
+#### Documentation 1.6.99.1
+
+* Add
+  * [Flags.md] v1.0.0.0
+* Update
+  * [Attributions.md] 1.6.99.1
+  * [Localizations.md] 1.6.99.1
+  * [readme.md] v1.6.99.1
+  * [ReleaseLayout.md] v1.6.99.1
+
+### Status 1.6.99.1
+
+* Issues
+  * closes #81 - 1.6.99.1 Additional Tasks
+  * closes #80 - Behemoth Aerospace Engineering (BAE) 1.6.99.1-prerelease `<Спасибо evanisrael>` edition
+
+---
 
 ## Version 1.6.99.0-adoption - `<Thank you greystork and Comwarrior>` edition
 
@@ -176,9 +291,9 @@ CC BY-ND 4.0 by zer0Kerbal
     * <en-us.cfg> v1.0.0.0
     * [readme.md] v2.1.2.0
     * [quickstart.md] v1.0.1.1
-  * closes #41 - Localization - Master
+  * closes #42 - English <us-en.cfg>
   * closes #58 - Part Localization
-  * updates #42 - English <us-en.cfg>
+  * updates #41 - Localization - Master
 
 ### docs/ 1.6.99.0
 
